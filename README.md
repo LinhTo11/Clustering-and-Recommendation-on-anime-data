@@ -3,7 +3,7 @@
 
 This repository includes:
 
-_ A notebook to contain the EDA of the dataset, 2 ML clustering based on user and animes, and 2 recommendation systems: content based and user based.
+_ A notebook to contain the EDA of the dataset, 2 K-means and Hierachical clusterings based on user and animes, and 2 content based and user based recommendation systems
 
 _ A report that summarizes the findings and details of our approach.
 
